@@ -3,9 +3,8 @@
   "version": "0.12.5",
   "description": "A class-based ES6 ODM for Mongo-like databases.",
   "author": {
-    "name": "Scott Robinson",
-    "email": "s.w.robinson@gmail.com",
-    "url": "http://stackabuse.com"
+    "name": "xiaonatuo",
+    "email": "g371864209@gmail.com"
   },
   "keywords": [
     "es6",
@@ -22,10 +21,10 @@
     "query",
     "db"
   ],
-  "homepage": "https://github.com/scottwrobinson/camo",
+  "homepage": "https://github.com/xiaonatuo/camo",
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottwrobinson/camo.git"
+    "url": "git@github.com:xiaonatuo/camo.git"
   },
   "license": "MIT",
   "scripts": {
@@ -39,8 +38,8 @@
     "lodash": "4.17.21"
   },
   "optionalDependencies": {
-    "mongodb": "2.0.42",
-    "nedb": "1.8.0"
+    "@seald-io/nedb": "^4.0.4",
+    "mongodb": "2.0.42"
   },
   "devDependencies": {
     "chai": "3.0.0",
