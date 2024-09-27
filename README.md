@@ -1,5 +1,5 @@
 # Camo
-This project is a fork of Camo.
+This project is a fork of [Camo](https://github.com/scottwrobinson/camo).
 ## Supporters
 
 <a href="https://pingbot.dev?ref=github-camo">
